@@ -1,0 +1,14 @@
+C:\Users\Lashari Supremacy\Source\Repos\maze_\src\MazeGenerator.Forms\bin\Debug\MazeGeneration.exe.config
+C:\Users\Lashari Supremacy\Source\Repos\maze_\src\MazeGenerator.Forms\bin\Debug\MazeGeneration.exe
+C:\Users\Lashari Supremacy\Source\Repos\maze_\src\MazeGenerator.Forms\bin\Debug\MazeGeneration.pdb
+C:\Users\Lashari Supremacy\Source\Repos\maze_\src\MazeGenerator.Forms\bin\Debug\MazeGenerator.Core.dll
+C:\Users\Lashari Supremacy\Source\Repos\maze_\src\MazeGenerator.Forms\bin\Debug\MazeGenerator.Core.pdb
+C:\Users\Lashari Supremacy\Source\Repos\maze_\src\MazeGenerator.Forms\bin\Debug\MazeGenerator.Core.dll.config
+C:\Users\Lashari Supremacy\Source\Repos\maze_\src\MazeGenerator.Forms\obj\Debug\MazeGenerator.Forms.csproj.AssemblyReference.cache
+C:\Users\Lashari Supremacy\Source\Repos\maze_\src\MazeGenerator.Forms\obj\Debug\MazeGenerator.Forms.Form1.resources
+C:\Users\Lashari Supremacy\Source\Repos\maze_\src\MazeGenerator.Forms\obj\Debug\MazeGeneration.Properties.Resources.resources
+C:\Users\Lashari Supremacy\Source\Repos\maze_\src\MazeGenerator.Forms\obj\Debug\MazeGenerator.Forms.csproj.GenerateResource.cache
+C:\Users\Lashari Supremacy\Source\Repos\maze_\src\MazeGenerator.Forms\obj\Debug\MazeGenerator.Forms.csproj.CoreCompileInputs.cache
+C:\Users\Lashari Supremacy\Source\Repos\maze_\src\MazeGenerator.Forms\obj\Debug\MazeGene.8865D596.Up2Date
+C:\Users\Lashari Supremacy\Source\Repos\maze_\src\MazeGenerator.Forms\obj\Debug\MazeGeneration.exe
+C:\Users\Lashari Supremacy\Source\Repos\maze_\src\MazeGenerator.Forms\obj\Debug\MazeGeneration.pdb
