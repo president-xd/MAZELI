@@ -39,4 +39,4 @@ If you want to play game, then you can download the release using this [Download
 Breadth-First Search (BFS) explores the maze level by level. Starting from the S point, BFS checks all neighboring cells and marks the path until it reaches the goal G. BFS guarantees the shortest path because it explores all possible routes level by level.
 
 ## Contributing
-Feel free to fork this project, make improvements, or submit pull requests! If you encounter any bugs or have suggestions for features, please open an issue on the GitHub repository.
+Feel free to fork this project, make improvements, or submit pull requests! If you encounter any bugs or have suggestions for features, please open an issue on the [president-xd/MAZELI](https://github.com/president-xd/MAZELI).
