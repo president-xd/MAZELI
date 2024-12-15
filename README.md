@@ -2,7 +2,7 @@
 
 A Maze Solver game written in C# that uses the **Breadth-First Search (BFS)** algorithm to find the shortest path from the start to the goal in a maze. This game provides an interactive interface where players can input their maze and watch the BFS algorithm in action as it solves the puzzle.
 
-## UI
+## GUI of the application
 ![3](https://github.com/user-attachments/assets/ad7f9a2c-28e3-49ec-aa9a-e943c183338d)
 
 
