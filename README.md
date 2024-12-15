@@ -33,7 +33,7 @@ In Visual Studio, go to **Build** menu and selection **Build Solution**. This wi
 Press **F5** or click the **Start** button in Visual Studio to launch the game.
 
 ## Direct Running it?
-If you want to play game, then you can download the release using this CLICK_ME
+If you want to play game, then you can download the release using this [Download Link](https://github.com/president-xd/MAZELI/releases/tag/0.1)
 
 ## How BFS Works
 Breadth-First Search (BFS) explores the maze level by level. Starting from the S point, BFS checks all neighboring cells and marks the path until it reaches the goal G. BFS guarantees the shortest path because it explores all possible routes level by level.
